@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Noticies de Informatica</title>
+  <link href="http://example.org/"/>
+  <updated>2003-12-13T18:30:02Z</updated>
+  <author>
+    <name>Alex Vidal Estudillo</name>
+  </author>
+  <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+  <entry>
+    <title>El nou ChatGPT reventa la educació</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <summary>ChatGPT es una nova IA que fa treballs de escoles indetectables</summary>
+  </entry>
+  <entry>
+    <title>Microsoft compra OpenAI</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <summary>La revolucionaria web que cuenta con ChatGPT ha recivido unos ingresos de mas de 1000 millones por parte de microsoft</summary>
+  </entry>
+  <entry>
+    <title>GTA6 posible data i tota la informacio</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <summary>Despres de que es filtres el posible GTA 6 ja tenim una posible data sobre 2024 <![CDATA[<img src="GTA6.jpg" alt="GTA6"/>]]></summary>
+  </entry>
+</feed>

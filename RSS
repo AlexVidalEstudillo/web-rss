@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticies de Informatica</title>
+    <link>http://example.com/</link>
+    <description>Actualidad Informatica.</description>
+    <item>
+       <title>El nou ChatGPT reventa la educació</title>
+       <link>https://alexvidalestudillo.github.io/web-rss</link>
+       <description>ChatGPT es una nova IA que fa treballs de escoles indetectables</description>
+    </item>
+    <item>
+       <title>Microsoft compra OpenAI</title>
+       <link>https://alexvidalestudillo.github.io/web-rss</link>
+       <description>La revolucionaria web que cuenta con ChatGPT ha recivido unos ingresos de mas de 1000 millones por parte de microsoft</description>
+    </item>
+    <item>
+       <title>GTA6 posible data i tota la informacio</title>
+       <link>https://alexvidalestudillo.github.io/web-rss</link>
+       <description>Despres de que es filtres el posible GTA 6 ja tenim una posible data sobre 2024 <![CDATA[<img src="GTA6.jpg" alt="GTA6"/>]]></description>
+    </item>
+  </channel>
+</rss>
